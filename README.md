@@ -1,0 +1,2 @@
+# RubyMineSettings
+RubyMine Settings Repository
