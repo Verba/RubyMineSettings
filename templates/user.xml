@@ -1,0 +1,16 @@
+<templateSet group="user">
+  <template name="index.js" value="import {connect} from 'react-redux'&#10;import $NAME$View from './View.jsx'&#10;&#10;export function mapStateToProps(state) {&#10;  return {}&#10;}&#10;&#10;export function mapDispatchToProps(dispatch) {&#10;  return {}&#10;}&#10;&#10;export default connect(mapStateToProps, mapDispatchToProps)($NAME$View)&#10;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="view.js" value="import React from 'react'&#10;import cssModules from 'react-css-modules'&#10;import styles from './View.css'&#10;&#10;class $NAME$View extends React.Component {&#10;&#10;  render() {&#10;    return null&#10;  }&#10;}&#10;&#10;$NAME$View.propTypes = {}&#10;$NAME$View.defaultProps = {}&#10;&#10;export default cssModules($NAME$View, styles)&#10;" description="View.js contents" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
