@@ -8,11 +8,6 @@
           <custom-object-presentation />
         </configuration>
       </debugger>
-      <debugger id="ruby">
-        <configuration>
-          <option name="verboseOutput" value="true" />
-        </configuration>
-      </debugger>
     </debuggers>
   </component>
 </application>
