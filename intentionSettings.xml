@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Ruby/Convert ':' to '=&gt;'" />
-    <ignoreAction name="CoffeeScript/Replace Double-Quoted String with Single-Quoted String" />
-  </component>
-</application>
