@@ -1,0 +1,12 @@
+<application>
+  <component name="DuplocatorSettings">
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="CoffeeScript" />
+        <option value="CoffeeScriptLiterate" />
+        <option value="Ruby" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="Ruby" />
+  </component>
+</application>
