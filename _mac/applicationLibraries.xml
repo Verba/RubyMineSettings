@@ -778,6 +778,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.7/lib/ruby/gems/2.1.0/gems/aws-sdk-1.67.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.10.104, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-2.10.104/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-2.10.104/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.8.2, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-2.8.2/lib" />
@@ -1056,6 +1064,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-configservice-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v2.10.104, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.10.104/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.10.104/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.10.104/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.10.104/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.10.104/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.10.104/apis" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v2.8.2, rbenv: 2.4.0) [gem]">
@@ -1628,6 +1648,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-resourcegroupstaggingapi-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.10.104, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.10.104/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.10.104/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.8.2, rbenv: 2.4.0) [gem]">
