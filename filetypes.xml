@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="jenkins-test" type="PLAIN_TEXT" />
+      <mapping ext="axlsx" type="Ruby" />
     </extensionMap>
   </component>
 </application>
