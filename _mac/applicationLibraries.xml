@@ -264,6 +264,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/activerecord-deprecated_finders-1.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord-import (v0.10.0, rbenv: 2.1.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/activerecord-import-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/activerecord-import-0.10.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/activerecord-import-0.10.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/activerecord-import-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/activerecord-import-0.10.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/activerecord-import-0.10.0/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="activerecord-import (v0.17.1, rbenv: 2.1.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/activerecord-import-0.17.1/lib" />
@@ -374,6 +386,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/addressable-2.3.7/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/addressable-2.3.7/website" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/addressable-2.3.7/tasks" />
+      </SOURCES>
+    </library>
+    <library name="addressable (v2.3.8, rbenv: 2.1.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/addressable-2.3.8/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/addressable-2.3.8/website" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/addressable-2.3.8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/addressable-2.3.8/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/addressable-2.3.8/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/addressable-2.3.8/website" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/addressable-2.3.8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/addressable-2.3.8/tasks" />
       </SOURCES>
     </library>
     <library name="addressable (v2.4.0, rbenv: 2.1.4) [gem]">
@@ -492,14 +518,12 @@
     </library>
     <library name="amatch (v0.2.11, rbenv: 2.1.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/amatch/0.2.11" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/amatch-0.2.11/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/amatch-0.2.11/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/amatch-0.2.11/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/amatch-0.2.11/tests" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/amatch/0.2.11" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/amatch-0.2.11/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/amatch-0.2.11/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/amatch-0.2.11/lib" />
@@ -562,6 +586,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/annotate-2.5.0/tasks" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/annotate-2.5.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/annotate-2.5.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="annotate (v2.6.10, rbenv: 2.1.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/annotate-2.6.10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/annotate-2.6.10/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/annotate-2.6.10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/annotate-2.6.10/bin" />
       </SOURCES>
     </library>
     <library name="annotate (v2.6.5, rbenv: 2.4.0) [gem]">
@@ -2012,12 +2046,10 @@
     </library>
     <library name="bcrypt (v3.1.11, rbenv: 2.1.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/bcrypt-3.1.11/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/bcrypt-3.1.11/ext" />
       </SOURCES>
@@ -2108,12 +2140,10 @@
     </library>
     <library name="binding_of_caller (v0.7.1, rbenv: 2.1.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/binding_of_caller/0.7.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/binding_of_caller-0.7.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/binding_of_caller-0.7.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/binding_of_caller/0.7.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/binding_of_caller-0.7.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/binding_of_caller-0.7.1/lib" />
       </SOURCES>
@@ -3470,12 +3500,10 @@
     </library>
     <library name="debug_inspector (v0.0.2, rbenv: 2.1.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/debug_inspector-0.0.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/debug_inspector-0.0.2/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/debug_inspector-0.0.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/debug_inspector-0.0.2/ext" />
       </SOURCES>
@@ -4082,7 +4110,6 @@
     </library>
     <library name="eventmachine (v1.0.9.1, rbenv: 2.1.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/eventmachine/1.0.9.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/eventmachine-1.0.9.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/eventmachine-1.0.9.1/java" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/eventmachine-1.0.9.1/tests" />
@@ -4090,7 +4117,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/eventmachine-1.0.9.1/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/eventmachine/1.0.9.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/eventmachine-1.0.9.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/eventmachine-1.0.9.1/java" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/eventmachine-1.0.9.1/tests" />
@@ -4118,12 +4144,10 @@
     </library>
     <library name="eventmachine_httpserver (v0.2.1, rbenv: 2.1.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/eventmachine_httpserver/0.2.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/eventmachine_httpserver-0.2.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/eventmachine_httpserver-0.2.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/eventmachine_httpserver/0.2.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/eventmachine_httpserver-0.2.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/eventmachine_httpserver-0.2.1/lib" />
       </SOURCES>
@@ -5448,13 +5472,11 @@
     </library>
     <library name="hitimes (v1.2.4, rbenv: 2.1.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/hitimes/1.2.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/hitimes-1.2.4/tasks" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/hitimes-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/hitimes-1.2.4/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/hitimes/1.2.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/hitimes-1.2.4/tasks" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/hitimes-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/hitimes-1.2.4/ext" />
@@ -5476,13 +5498,11 @@
     </library>
     <library name="hpricot (v0.8.6, rbenv: 2.1.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/hpricot/0.8.6" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/hpricot-0.8.6/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/hpricot-0.8.6/extras" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/hpricot-0.8.6/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/hpricot/0.8.6" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/hpricot-0.8.6/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/hpricot-0.8.6/extras" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/hpricot-0.8.6/ext" />
@@ -5582,14 +5602,12 @@
     </library>
     <library name="http_parser.rb (v0.6.0, rbenv: 2.1.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/bench" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/bench" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/lib" />
@@ -5682,6 +5700,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/i18n-0.6.4/ci" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/i18n-0.6.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.7.0, rbenv: 2.1.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/i18n-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/i18n-0.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/i18n-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/i18n-0.7.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="i18n (v0.8.1, rbenv: 2.1.4) [gem]">
@@ -5972,7 +6000,6 @@
     </library>
     <library name="json (v1.7.7, rbenv: 2.1.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/json/1.7.7" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.7.7/java" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.7.7/data" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.7.7/tests" />
@@ -5982,7 +6009,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.7.7/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/json/1.7.7" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.7.7/java" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.7.7/data" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.7.7/tests" />
@@ -6028,6 +6054,26 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.7/lib/ruby/2.1.0/json/add" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.3, rbenv: 2.1.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.8.3/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.8.3/diagrams" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.8.3/tools" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.8.3/java" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.8.3/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.8.3/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.8.3/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.8.3/diagrams" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.8.3/tools" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.8.3/java" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.8.3/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.8.3/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/json-1.8.3/lib" />
       </SOURCES>
     </library>
     <library name="json (v1.8.3, rbenv: 2.3.1) [gem]">
@@ -6468,14 +6514,12 @@
     </library>
     <library name="libv8 (v3.16.14.7, rbenv: 2.1.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/libv8/3.16.14.7" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/libv8-3.16.14.7/patches" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/libv8-3.16.14.7/vendor" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/libv8-3.16.14.7/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/libv8-3.16.14.7/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/libv8/3.16.14.7" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/libv8-3.16.14.7/patches" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/libv8-3.16.14.7/vendor" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/libv8-3.16.14.7/ext" />
@@ -6802,6 +6846,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.7/lib/ruby/gems/2.1.0/gems/mime-types-1.25.1/lib" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.0, rbenv: 2.1.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/mime-types-3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/mime-types-3.0/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/mime-types-3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/mime-types-3.0/support" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v3.1, rbenv: 2.1.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/mime-types-3.1/lib" />
@@ -6824,6 +6878,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2016.0221, rbenv: 2.1.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/mime-types-data-3.2016.0221/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/mime-types-data-3.2016.0221/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/mime-types-data-3.2016.0221/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/mime-types-data-3.2016.0221/data" />
       </SOURCES>
     </library>
     <library name="mime-types-data (v3.2016.0521, rbenv: 2.1.4) [gem]">
@@ -6908,6 +6972,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/mini_portile-0.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile2 (v2.0.0, rbenv: 2.1.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/mini_portile2-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/mini_portile2-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="mini_portile2 (v2.1.0, rbenv: 2.4.0) [gem]">
@@ -7146,6 +7218,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.7/lib/ruby/gems/2.1.0/gems/mono_logger-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.11.2, rbenv: 2.1.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/multi_json-1.11.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/multi_json-1.11.2/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.12.1, rbenv: 2.4.0) [gem]">
@@ -7570,14 +7650,12 @@
     </library>
     <library name="nokogiri (v1.5.11, rbenv: 2.1.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/nokogiri/1.5.11" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/nokogiri-1.5.11/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/nokogiri-1.5.11/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/nokogiri-1.5.11/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/nokogiri-1.5.11/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/nokogiri/1.5.11" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/nokogiri-1.5.11/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/nokogiri-1.5.11/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/nokogiri-1.5.11/lib" />
@@ -8682,6 +8760,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.7/lib/ruby/2.1.0/rake/contrib" />
       </SOURCES>
     </library>
+    <library name="rake (v10.4.2, rbenv: 2.1.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/rake-10.4.2/rakelib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/rake-10.4.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/rake-10.4.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/rake-10.4.2/rakelib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/rake-10.4.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/rake-10.4.2/bin" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.4.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-10.4.2/bin" />
@@ -8828,13 +8918,11 @@
     </library>
     <library name="rb-fsevent (v0.9.7, rbenv: 2.1.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/rb-fsevent/0.9.7" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.7/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.7/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.7/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/rb-fsevent/0.9.7" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.7/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.7/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/rb-fsevent-0.9.7/lib" />
@@ -10652,6 +10740,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/thread_safe-0.1.2/ext" />
       </SOURCES>
     </library>
+    <library name="thread_safe (v0.3.5, rbenv: 2.1.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/yard-template" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/yard-template" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.5/lib" />
+      </SOURCES>
+    </library>
     <library name="thread_safe (v0.3.6, rbenv: 2.1.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/thread_safe-0.3.6/yard-template" />
@@ -10852,6 +10954,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/tzinfo-0.3.37/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v0.3.45, rbenv: 2.1.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/tzinfo-0.3.45/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/tzinfo-0.3.45/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo (v0.3.52, rbenv: 2.1.4) [gem]">
@@ -11324,14 +11434,12 @@
     </library>
     <library name="yajl-ruby (v1.1.0, rbenv: 2.1.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/yajl-ruby/1.1.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.1.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.1.0/tasks" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.1.0/benchmark" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.1.0/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/yajl-ruby/1.1.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.1.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.1.0/tasks" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.1.0/benchmark" />
