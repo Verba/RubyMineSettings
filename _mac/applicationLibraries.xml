@@ -8462,10 +8462,12 @@
     </library>
     <library name="integration (v0.1.2@48d417, rbenv: 2.1.9) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/integration/0.1.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/bundler/gems/integration-48d417b9abcf/benchmark" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/bundler/gems/integration-48d417b9abcf/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/integration/0.1.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/bundler/gems/integration-48d417b9abcf/benchmark" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/bundler/gems/integration-48d417b9abcf/lib" />
       </SOURCES>
