@@ -17,7 +17,6 @@
       <mask>.jsx</mask>
       <mask>jsx</mask>
       <mask>*jsx</mask>
-      <mask>*.jsx</mask>
       <mask>*.</mask>
       <mask>*.sp</mask>
       <mask>*.spe</mask>
@@ -36,6 +35,7 @@
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
