@@ -15182,14 +15182,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.4/lib/ruby/gems/2.1.0/gems/sawyer-0.6.0/lib" />
       </SOURCES>
     </library>
-    <library name="selenium-webdriver (v3.0.3, rbenv: 2.4.0) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.0.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.0.3/lib" />
-      </SOURCES>
-    </library>
     <library name="selenium-webdriver (v3.11.0, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.11.0/lib" />
@@ -15220,14 +15212,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/gems/selenium-webdriver-3.8.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="selenium-webdriver (v3.8.0, rbenv: 2.4.0) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.8.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="semverse (v1.2.1, rbenv: 2.1.4) [gem]">
