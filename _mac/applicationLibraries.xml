@@ -15422,6 +15422,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/bundler/gems/services-b9609d7399a3/.github" />
       </SOURCES>
     </library>
+    <library name="services (v2.0.3@433003, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/bundler/gems/services-433003069919/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/bundler/gems/services-433003069919/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/bundler/gems/services-433003069919/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/bundler/gems/services-433003069919/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/bundler/gems/services-433003069919/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/bundler/gems/services-433003069919/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/bundler/gems/services-433003069919/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/bundler/gems/services-433003069919/app" />
+      </SOURCES>
+    </library>
     <library name="sexp_processor (v4.10.0, rbenv: 2.1.7) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.7/lib/ruby/gems/2.1.0/gems/sexp_processor-4.10.0/lib" />
