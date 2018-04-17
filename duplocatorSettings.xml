@@ -3,10 +3,11 @@
     <option name="SELECTED_PROFILES">
       <set>
         <option value="CoffeeScript" />
-        <option value="CoffeeScriptLiterate" />
+        <option value="ECMAScript 6" />
+        <option value="JavaScript" />
         <option value="Ruby" />
       </set>
     </option>
-    <option name="LAST_SELECTED_LANGUAGE" value="Ruby" />
+    <option name="LAST_SELECTED_LANGUAGE" value="ECMAScript 6" />
   </component>
 </application>
